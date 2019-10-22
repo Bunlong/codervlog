@@ -1,11 +1,4 @@
-# Coder Vlog
-
-I offer you some tips and tricks also some best practices of computer programming in simple way.
-
-## Table of Contents
-
-1. [JavaScript Tips, Tricks and Best Practices](./javascript-tips-tricks-and-best-practices)
-1. [CSS Tips, Tricks and Best Practices](./css-tips-tricks-and-best-practices)
+# 📚 CSS Tips, Tricks and Best Practices
 
 ## 👋 Say Hello
 
