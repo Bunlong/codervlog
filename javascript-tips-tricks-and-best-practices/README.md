@@ -24,6 +24,10 @@
 
 <p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reduceright-method-and-spread.png" alt="How to reverse an array using reduceright method and spread" width="700"></p>
 
+### [How to Reverse an Array Using `reduceRight` and `push` Method](#how-to-reverse-an-array-using-reduceright-and-push-method)
+
+<p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reduceright-and-push-method.png" alt="How to reverse an array using reduceright and push method" width="700"></p>
+
 ## 👋 Say Hello
 
 > I share code tidbits every week!
