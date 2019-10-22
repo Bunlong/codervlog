@@ -40,6 +40,10 @@
 
 <p><img src="./images/how-to-clone-object-using-spread.png" alt="How to clone object using object.assign method" width="700"></p>
 
+### [How to Clone Object Using `JSON`](#how-to-clone-object-using-json)
+
+<p><img src="./images/how-to-clone-object-using-json.png" alt="How to clone object using JSON" width="700"></p>
+
 ## 👋 Say Hello
 
 > I share code tidbits every week!
