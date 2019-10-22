@@ -12,6 +12,10 @@
 
 <p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-slice-and-reverse-method.png" alt="How to reverse an array using slice and reverse method" width="700"></p>
 
+### [How to Reverse an Array Using spread and `reverse` Method](#how-to-reverse-an-array-using-spread-and-reverse-method)
+
+<p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-spread-and-reverse-method.png" alt="How to reverse an array using spread and reverse method" width="700"></p>
+
 ## 👋 Say Hello
 
 > I share code tidbits every week!
