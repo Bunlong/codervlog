@@ -20,6 +20,10 @@
 
 <p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reduce-method-and-spread.png" alt="How to reverse an array using reduce method and spread" width="700"></p>
 
+### [How to Reverse an Array Using `reduceRight` Method and Spread](#how-to-reverse-an-array-using-reduceright-method-and-spread)
+
+<p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reduceright-method-and-spread.png" alt="How to reverse an array using reduceright method and spread" width="700"></p>
+
 ## 👋 Say Hello
 
 > I share code tidbits every week!
