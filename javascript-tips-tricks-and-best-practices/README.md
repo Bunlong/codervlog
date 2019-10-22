@@ -54,6 +54,12 @@
 
 <p><img src="./images/dynamic-import.png" alt="Dynamic import" width="700"></p>
 
+### [Better Array Check](#better-array-check)
+
+In JavaScript arrays are not true arrays. So you can't simply do a `typeof` check. But not a problem! With ES6, finally there is an easier way to check if a value is an actual array. Use `Array.isArray()`.
+
+<p><img src="./images/better-array-check.png" alt="Better array check" width="700"></p>
+
 ## 👋 Say Hello
 
 > I share code tidbits every week!
