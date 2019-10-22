@@ -17,7 +17,7 @@
 > I share code tidbits every week!
 
 Twitter: [@bunlongvan](https://twitter.com/bunlongvan)  
-GitHub: [@Bunlong](https://github.com/bunlong)  
+GitHub: [@bunlong](https://github.com/bunlong)  
 LinkedIn: [@bunlongvan](https://www.linkedin.com/in/bunlongvan)  
 Facebook: [@codervlog](https://www.facebook.com/codervlog)  
 Instagram: [@codervlog](https://www.instagram.com/codervlog)
