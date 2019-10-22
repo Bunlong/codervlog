@@ -10,4 +10,4 @@
 
 ### [How to Reverse an Array Using `slice` and `reverse` Method](#how-to-reverse-an-array-using-slice-and-reverse-method)
 
-<p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-slice-and-reverse-method" alt="How to reverse an array using slice and reverse method" width="700"></p>
+<p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-slice-and-reverse-method.png" alt="How to reverse an array using slice and reverse method" width="700"></p>
