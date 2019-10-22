@@ -18,7 +18,7 @@
 
 ### [How to Reverse an Array Using `reduce` Method and Spread](#how-to-reverse-an-array-using-reduce-method-and-spread)
 
-<p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reduce-method-and-spread" alt="How to reverse an array using reduce method and spread" width="700"></p>
+<p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reduce-method-and-spread.png" alt="How to reverse an array using reduce method and spread" width="700"></p>
 
 ## 👋 Say Hello
 
