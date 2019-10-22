@@ -6,4 +6,4 @@
 
 #### [Using `reverse` method](#how-to-reverse-an-array-using-reverse-method)
 
-<p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reverse-method.png" alt="How to reverse an array using reverse method" width="500"></p>
+<p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reverse-method.png" alt="How to reverse an array using reverse method" width="700"></p>
