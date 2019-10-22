@@ -48,8 +48,8 @@
 
 ✅ Use cases of Dynamic Import:
 
-1️⃣ Import a module on-demand (or conditionally)
-2️⃣ Compute the module specifier at runtime
+1️⃣ Import a module on-demand (or conditionally)  
+2️⃣ Compute the module specifier at runtime  
 3️⃣ Import a module from within a regular script (as opposed to a module)
 
 <p><img src="./images/dynamic-import.png" alt="Dynamic import" width="700"></p>
