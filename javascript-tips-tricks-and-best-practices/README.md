@@ -44,6 +44,10 @@
 
 <p><img src="./images/how-to-clone-object-using-json.png" alt="How to clone object using JSON" width="700"></p>
 
+### [Dynamic Import](#dynamic-import)
+
+<p><img src="./images/dynamic-import.png" alt="Dynamic import" width="700"></p>
+
 ## 👋 Say Hello
 
 > I share code tidbits every week!
