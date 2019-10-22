@@ -28,6 +28,10 @@
 
 <p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reduceright-and-push-method.png" alt="How to reverse an array using reduceright and push method" width="700"></p>
 
+### [No "And" in Function Name](#no-and-in-function-name)
+
+<p><img src="./images/no-and-in-function-name.png" alt="No and in function name" width="700"></p>
+
 ## 👋 Say Hello
 
 > I share code tidbits every week!
