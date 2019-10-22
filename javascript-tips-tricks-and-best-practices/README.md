@@ -34,7 +34,11 @@
 
 ### [How to Clone Object Using Spread](#how-to-clone-object-using-spread)
 
-<p><img src="./images/how-to-clone-object-using-spread.png" alt="How-to-clone-object-using-spread" width="700"></p>
+<p><img src="./images/how-to-clone-object-using-spread.png" alt="How to clone object using spread" width="700"></p>
+
+### [How to Clone Object Using `Object.assign` Method](#how-to-clone-object-using-object-assign-method)
+
+<p><img src="./images/how-to-clone-object-using-spread.png" alt="How to clone object using object.assign method" width="700"></p>
 
 ## 👋 Say Hello
 
