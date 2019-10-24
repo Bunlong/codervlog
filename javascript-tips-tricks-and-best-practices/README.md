@@ -259,6 +259,25 @@ Image:
 
 ### [Better Array Check](#better-array-check)
 
+Code:
+
+```javascript
+const books = ['📕', '📙', '📗'];
+
+
+// ❌ Does not work
+typeof books; // 'object'
+
+// Old way
+Object.prototype.toString.call(books) === '[object Array]'; // true
+
+// ES6
+// ✅ Better
+Array.isArray(books); // true
+```
+
+Image:
+
 In JavaScript arrays are not true arrays. So you can't simply do a `typeof` check. But not a problem! With ES6, finally there is an easier way to check if a value is an actual array. Use `Array.isArray()`.
 
 <p><img src="./images/better-array-check.png" alt="Better array check" width="700"></p>
