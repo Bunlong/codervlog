@@ -100,6 +100,27 @@ Image:
 
 ### [How to Reverse an Array Using `reduceRight` Method and Spread](#how-to-reverse-an-array-using-reduceright-method-and-spread)
 
+Code:
+
+```javascript
+const originalArray = ['👶', '👦', '👨', '👴'];
+
+const newArray = originalArray.reduceRight((accumulator, value) => {
+	return [...accumulator, value]
+}, []);
+
+console.log(originalArray);
+console.log(newArray);
+
+// originalArray result
+// ['👶', '👦', '👨', '👴']
+
+// newArray result
+// ['👴', '👨', '👦', '👶']
+```
+
+Image:
+
 <p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reduceright-method-and-spread.png" alt="How to reverse an array using reduceright method and spread" width="700"></p>
 
 ### [How to Reverse an Array Using `reduceRight` and `push` Method](#how-to-reverse-an-array-using-reduceright-and-push-method)
