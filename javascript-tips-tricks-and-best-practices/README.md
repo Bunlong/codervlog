@@ -233,6 +233,28 @@ Image:
 2️⃣ Compute the module specifier at runtime  
 3️⃣ Import a module from within a regular script (as opposed to a module)
 
+Code:
+
+```javascript
+import('./utils/log.js')
+	.then((module) => {
+		// Do something with the module
+		module.doSomething();
+	});
+
+// Since import() returns a promise,
+// it's possible to use async/await instead of
+// the then-based callback style
+
+(async () => {
+	const module = await import('./utils/log.js');
+	// Do something with the module
+	module.doSomething();
+})();
+```
+
+Image:
+
 <p><img src="./images/dynamic-import.png" alt="Dynamic import" width="700"></p>
 
 ### [Better Array Check](#better-array-check)
