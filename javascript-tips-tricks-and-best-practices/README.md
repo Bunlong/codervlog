@@ -125,6 +125,28 @@ Image:
 
 ### [How to Reverse an Array Using `reduceRight` and `push` Method](#how-to-reverse-an-array-using-reduceright-and-push-method)
 
+Code:
+
+```javascript
+const originalArray = ['👶', '👦', '👨', '👴'];
+
+const newArray = originalArray.reduceRight((accumulator, value) => {
+	accumulator.push(value);
+	return accumulator;
+}, []);
+
+console.log(originalArray);
+console.log(newArray);
+
+// originalArray result
+// ['👶', '👦', '👨', '👴']
+
+// newArray result
+// ['👴', '👨', '👦', '👶']
+```
+
+Image:
+
 <p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reduceright-and-push-method.png" alt="How to reverse an array using reduceright and push method" width="700"></p>
 
 ### [No "And" in Function Name](#no-and-in-function-name)
