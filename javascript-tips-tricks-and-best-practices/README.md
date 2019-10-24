@@ -282,6 +282,25 @@ Image:
 
 <p><img src="./images/better-array-check.png" alt="Better array check" width="700"></p>
 
+### [Get Unique Values of an Array](#get-unique-values-of-an-array)
+
+Code:
+
+```javascript
+// Get Unique Values of an Array
+
+let newArray = [...new Set([1, 2, 3, 3])];
+
+console.log(newArray);
+
+// newArray result
+// [1, 2, 3]
+```
+
+Image:
+
+<p><img src="./images/get-unique-values-of-an-array.png" alt="Get unique values of an array" width="700"></p>
+
 ## 👋 Say Hello
 
 > I share code tidbits every week!
