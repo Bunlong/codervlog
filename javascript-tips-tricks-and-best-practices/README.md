@@ -75,6 +75,27 @@ Image:
 
 ### [How to Reverse an Array Using `reduce` Method and Spread](#how-to-reverse-an-array-using-reduce-method-and-spread)
 
+Code:
+
+```javascript
+const originalArray = ['👶', '👦', '👨', '👴'];
+
+const newArray = originalArray.reduce((accumulator, value) => {
+	return [value, ...accumulator]
+}, []);
+
+console.log(originalArray);
+console.log(newArray);
+
+// originalArray result
+// ['👶', '👦', '👨', '👴']
+
+// newArray result
+// ['👴', '👨', '👦', '👶']
+```
+
+Image:
+
 <p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reduce-method-and-spread.png" alt="How to reverse an array using reduce method and spread" width="700"></p>
 
 ### [How to Reverse an Array Using `reduceRight` Method and Spread](#how-to-reverse-an-array-using-reduceright-method-and-spread)
