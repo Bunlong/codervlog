@@ -237,19 +237,19 @@ Code:
 
 ```javascript
 import('./utils/log.js')
-	.then((module) => {
-		// Do something with the module
-		module.doSomething();
-	});
+  .then((module) => {
+    // Do something with the module
+    module.doSomething();
+  });
 
 // Since import() returns a promise,
 // it's possible to use async/await instead of
 // the then-based callback style
 
 (async () => {
-	const module = await import('./utils/log.js');
-	// Do something with the module
-	module.doSomething();
+  const module = await import('./utils/log.js');
+  // Do something with the module
+  module.doSomething();
 })();
 ```
 
