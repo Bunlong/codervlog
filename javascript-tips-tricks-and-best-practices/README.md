@@ -4,6 +4,8 @@
 
 ### [How to Reverse an Array Using `reverse` Method](#how-to-reverse-an-array-using-reverse-method)
 
+Code:
+
 ```javascript
 const originalArray = ['👶', '👦', '👨', '👴'];
 
@@ -19,7 +21,9 @@ console.log(newArray);
 // ['👴', '👨', '👦', '👶']
 ````
 
-<a src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reverse-method.png">Source</a>
+Image:
+
+<p><img src="./images/how-to-reverse-an-array/how-to-reverse-an-array-using-reverse-method.png" alt="How to reverse an array using reverse method" width="700"></p>
 
 <a id="how-to-reverse-an-array-using-slice-and-reverse-method"></a>
 
