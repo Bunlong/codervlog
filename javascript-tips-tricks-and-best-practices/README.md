@@ -151,10 +151,6 @@ Image:
 
 ### [No "And" in Function Name](#no-and-in-function-name)
 
-<p><img src="./images/no-and-in-function-name.png" alt="No and in function name" width="700"></p>
-
-### [How to Clone Object Using Spread](#how-to-clone-object-using-spread)
-
 Code:
 
 ```javascript
@@ -166,6 +162,25 @@ function teaAndSugar
 // ✅ Better
 function tea
 function sugar
+```
+
+Image:
+
+<p><img src="./images/no-and-in-function-name.png" alt="No and in function name" width="700"></p>
+
+### [How to Clone Object Using Spread](#how-to-clone-object-using-spread)
+
+Code:
+
+```javascript
+const food = { beef: '🥩', bacon: '🥓' };
+
+const cloneFood = { ...food };
+
+console.log(cloneFood);
+
+// cloneFood result
+// { beef: '🥩', bacon: '🥓' }
 ```
 
 Image:
