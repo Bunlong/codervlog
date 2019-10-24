@@ -189,7 +189,22 @@ Image:
 
 ### [How to Clone Object Using `Object.assign` Method](#how-to-clone-object-using-object-assign-method)
 
-<p><img src="./images/how-to-clone-object-using-spread.png" alt="How to clone object using object.assign method" width="700"></p>
+Code:
+
+```javascript
+const food = { beef: '🥩', bacon: '🥓' };
+
+const cloneFood = Object.assign({}, food);
+
+console.log(cloneFood);
+
+// cloneFood result
+// { beef: '🥩', bacon: '🥓' }
+```
+
+Image:
+
+<p><img src="./images/how-to-clone-object-using-object-assign-method.png" alt="How to clone object using object.assign method" width="700"></p>
 
 ### [How to Clone Object Using `JSON`](#how-to-clone-object-using-json)
 
