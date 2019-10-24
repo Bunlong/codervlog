@@ -301,6 +301,28 @@ Image:
 
 <p><img src="./images/get-unique-values-of-an-array.png" alt="Get unique values of an array" width="700"></p>
 
+### [Short-circuit Evaluation and Assignment Using && ||](#short-circuit-evaluation-and-assignment-using-and-or)
+
+Code:
+
+```javascript
+const foo = 10;
+
+foo = 10 && doSomething(); // short circuit of if (foo == 10) doSomething();
+
+
+foo == 5 || doSomething(); // short circuit of if (foo != 5) doSomething();
+
+// Set a default value for function argument
+function doSomething(arg) {
+  arg = arg || 10; // arg will have 10 as a default value if it's not set
+}
+```
+
+Image:
+
+<p><img src="./images/short-circuit-evaluation-and-assignment-using-and-or.png" alt="short-circuit evaluation and assignment using and or" width="700"></p>
+
 ## 👋 Say Hello
 
 > I share code tidbits every week!
