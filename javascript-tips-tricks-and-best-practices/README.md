@@ -208,6 +208,21 @@ Image:
 
 ### [How to Clone Object Using `JSON`](#how-to-clone-object-using-json)
 
+Code:
+
+```javascript
+const food = { beef: '🥩', bacon: '🥓' };
+
+const cloneFood = JSON.parse(JSON.stringify(food));
+
+console.log(cloneFood);
+
+// cloneFood result
+// { beef: '🥩', bacon: '🥓' }
+```
+
+Image:
+
 <p><img src="./images/how-to-clone-object-using-json.png" alt="How to clone object using JSON" width="700"></p>
 
 ### [Dynamic Import](#dynamic-import)
