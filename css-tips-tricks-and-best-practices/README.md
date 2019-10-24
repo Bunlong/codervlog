@@ -1,5 +1,9 @@
 # 📚 CSS Tips, Tricks and Best Practices
 
+### [Empty Selector](#empty-selector)
+
+<p><img src="./images/empty-selector.png" alt="Empty selector" width="700"></p>
+
 ## 👋 Say Hello
 
 > I share code tidbits every week!
