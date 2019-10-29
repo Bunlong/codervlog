@@ -5,7 +5,7 @@ I offer you some tips and tricks also some best practices of computer programmin
 ## Table of Contents
 
 1. [JavaScript Tips, Tricks and Best Practices](./javascript-tips-tricks-and-best-practices)
-1. [CSS Tips, Tricks and Best Practices](./css-tips-tricks-and-best-practices)
+2. [CSS Tips, Tricks and Best Practices](./css-tips-tricks-and-best-practices)
 
 ## 👋 Say Hello
 
@@ -29,6 +29,6 @@ Yes! Anyone is welcome to contribute to the quality of this content. Please feel
 
 ## 🏻‍⚖️ License
 
-Thank you for wanting to share and include my work in your project 😊 If you're wondering how to provide attributions. It simply means don't edit the images. There is attribution automatically built into them. Easy peasy right! So you don't have to provide additional attribution when you share the images ⭐️
+Thank you for wanting to share and include my work in your project 😊. If you're wondering how to provide attributions, it simply means don't edit the images. There is attribution automatically built into them. Easy peasy right! So you don't have to provide additional attribution when you share the images ⭐️
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
